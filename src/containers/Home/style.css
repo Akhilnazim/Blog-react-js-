@@ -1,0 +1,33 @@
+.gallery {
+    display:flex;
+    justify-content:space-between;
+}
+.imageWrapper div{
+    width:100%;
+
+}
+.imageWrapper img{
+    max-height:100%;
+    width:100%;
+    object-fit:cover;
+}
+.imah {
+    max-height:100%;
+    width:100%;
+    object-fit:cover;
+
+}
+.home{
+    display:flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.piw img{
+    max-height:100%;
+    width:100%;
+    object-fit:cover;
+}
+.add{
+    font-weight:bold;
+    color:#6c6c6c;
+}
